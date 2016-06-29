@@ -1,2 +1,2 @@
 # nice-pics
-some pretty pictures
+Some pretty pictures we encountered in our development and life
